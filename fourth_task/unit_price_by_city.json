@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "Yangon",
+        "min_unit_price": 10.08,
+        "avg_unit_price": 51.66399622144113,
+        "max_unit_price": 100.87109999999998
+    },
+    {
+        "_id": "Naypyitaw",
+        "min_unit_price": 10.16,
+        "avg_unit_price": 48.46755853024063,
+        "max_unit_price": 99.96
+    },
+    {
+        "_id": "Mandalay",
+        "min_unit_price": 10.59,
+        "avg_unit_price": 50.271597291376224,
+        "max_unit_price": 99.96
+    }
+]

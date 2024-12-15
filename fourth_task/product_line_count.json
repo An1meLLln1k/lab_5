@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "Electronic accessories",
+        "count": 5234
+    },
+    {
+        "_id": "Food and beverages",
+        "count": 5161
+    },
+    {
+        "_id": "Sports and travel",
+        "count": 4819
+    },
+    {
+        "_id": "Home and lifestyle",
+        "count": 4804
+    },
+    {
+        "_id": "Health and beauty",
+        "count": 4645
+    },
+    {
+        "_id": "Fashion accessories",
+        "count": 3709
+    }
+]

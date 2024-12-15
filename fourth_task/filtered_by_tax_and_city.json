@@ -1,0 +1,122 @@
+[
+    {
+        "_id": "675f0b5e20d6b588857e39a1",
+        "Gender": "Male",
+        "Invoice ID": "756-49-0168",
+        "Branch": "A",
+        "City": "Yangon",
+        "Customer type": "Member",
+        "Product line": "Fashion accessories",
+        "Unit price": 19.7,
+        "Quantity": 1,
+        "Tax 5%": 985.0
+    },
+    {
+        "_id": "675efdf594d1491a35ec5c93",
+        "Unit price": 20.108000000000004,
+        "Quantity": 1,
+        "Tax 5%": 923.14,
+        "Product line": "Home and lifestyle",
+        "City": "Yangon",
+        "Branch": "A",
+        "Gender": "Male",
+        "Customer type": "Normal",
+        "Invoice ID": "802-43-8934"
+    },
+    {
+        "_id": "675efc5a81b29197b7060265",
+        "Unit price": 20.108000000000004,
+        "Quantity": 1,
+        "Tax 5%": 923.14,
+        "Product line": "Home and lifestyle",
+        "City": "Yangon",
+        "Branch": "A",
+        "Gender": "Male",
+        "Customer type": "Normal",
+        "Invoice ID": "802-43-8934"
+    },
+    {
+        "_id": "675efcb91d97e18f66bf67b5",
+        "Unit price": 20.108000000000004,
+        "Quantity": 1,
+        "Tax 5%": 923.14,
+        "Product line": "Home and lifestyle",
+        "City": "Yangon",
+        "Branch": "A",
+        "Gender": "Male",
+        "Customer type": "Normal",
+        "Invoice ID": "802-43-8934"
+    },
+    {
+        "_id": "675efcc5b23ab9b2f841b99a",
+        "Unit price": 20.108000000000004,
+        "Quantity": 1,
+        "Tax 5%": 923.14,
+        "Product line": "Home and lifestyle",
+        "City": "Yangon",
+        "Branch": "A",
+        "Gender": "Male",
+        "Customer type": "Normal",
+        "Invoice ID": "802-43-8934"
+    },
+    {
+        "_id": "675efdae3e8c58f34cfba11c",
+        "Unit price": 20.108000000000004,
+        "Quantity": 1,
+        "Tax 5%": 923.14,
+        "Product line": "Home and lifestyle",
+        "City": "Yangon",
+        "Branch": "A",
+        "Gender": "Male",
+        "Customer type": "Normal",
+        "Invoice ID": "802-43-8934"
+    },
+    {
+        "_id": "675efbfad5cfde29af3b5178",
+        "Unit price": 20.108000000000004,
+        "Quantity": 1,
+        "Tax 5%": 923.14,
+        "Product line": "Home and lifestyle",
+        "City": "Yangon",
+        "Branch": "A",
+        "Gender": "Male",
+        "Customer type": "Normal",
+        "Invoice ID": "802-43-8934"
+    },
+    {
+        "_id": "675f020536d982d3da29d957",
+        "Gender": "Male",
+        "Invoice ID": "802-43-8934",
+        "Branch": "A",
+        "City": "Yangon",
+        "Customer type": "Normal",
+        "Product line": "Home and lifestyle",
+        "Unit price": 20.108000000000004,
+        "Quantity": 1,
+        "Tax 5%": 923.14
+    },
+    {
+        "_id": "675f0199e7195d1d1ccd739a",
+        "Gender": "Male",
+        "Invoice ID": "802-43-8934",
+        "Branch": "A",
+        "City": "Yangon",
+        "Customer type": "Normal",
+        "Product line": "Home and lifestyle",
+        "Unit price": 20.108000000000004,
+        "Quantity": 1,
+        "Tax 5%": 923.14
+    },
+    {
+        "_id": "675efc82c42fe8d51895aa75",
+        "Unit price": 20.108000000000004,
+        "Quantity": 1,
+        "Tax 5%": 923.14,
+        "Product line": "Home and lifestyle",
+        "City": "Yangon",
+        "Branch": "A",
+        "Gender": "Male",
+        "Customer type": "Normal",
+        "Invoice ID": "802-43-8934"
+    }
+]

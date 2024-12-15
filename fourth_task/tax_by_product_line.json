@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "Home and lifestyle",
+        "min_tax": 1.148,
+        "avg_tax": 37.50970322127394,
+        "max_tax": 923.14
+    },
+    {
+        "_id": "Food and beverages",
+        "min_tax": 1.079,
+        "avg_tax": 22.601738985661694,
+        "max_tax": 445.365
+    },
+    {
+        "_id": "Fashion accessories",
+        "min_tax": 1.066,
+        "avg_tax": 56.06232204906983,
+        "max_tax": 985.0
+    },
+    {
+        "_id": "Sports and travel",
+        "min_tax": 1.119,
+        "avg_tax": 37.65900237289895,
+        "max_tax": 774.67
+    },
+    {
+        "_id": "Electronic accessories",
+        "min_tax": 1.2725,
+        "avg_tax": 23.83848165552159,
+        "max_tax": 448.785
+    },
+    {
+        "_id": "Health and beauty",
+        "min_tax": 1.25,
+        "avg_tax": 37.38722254790097,
+        "max_tax": 378.405
+    }
+]

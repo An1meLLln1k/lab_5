@@ -1,0 +1,98 @@
+[
+    {
+        "_id": "Повар",
+        "min_salary": 55232,
+        "avg_salary": 122824.5,
+        "max_salary": 199192
+    },
+    {
+        "_id": "Косметолог",
+        "min_salary": 56163,
+        "avg_salary": 132149.0606060606,
+        "max_salary": 198600
+    },
+    {
+        "_id": "Психолог",
+        "min_salary": 53963,
+        "avg_salary": 122042.92307692308,
+        "max_salary": 198454
+    },
+    {
+        "_id": "IT-специалист",
+        "min_salary": 50874,
+        "avg_salary": 110488.30303030302,
+        "max_salary": 198450
+    },
+    {
+        "_id": "Оператор call-центра",
+        "min_salary": 57001,
+        "avg_salary": 122750.83333333333,
+        "max_salary": 198384
+    },
+    {
+        "_id": "Медсестра",
+        "min_salary": 53643,
+        "avg_salary": 130987.45454545454,
+        "max_salary": 197653
+    },
+    {
+        "_id": "Строитель",
+        "min_salary": 50684,
+        "avg_salary": 118722.21621621621,
+        "max_salary": 197355
+    },
+    {
+        "_id": "Бухгалтер",
+        "min_salary": 50641,
+        "avg_salary": 121015.45454545454,
+        "max_salary": 196543
+    },
+    {
+        "_id": "Учитель",
+        "min_salary": 50480,
+        "avg_salary": 123954.42424242424,
+        "max_salary": 196184
+    },
+    {
+        "_id": "Продавец",
+        "min_salary": 52345,
+        "avg_salary": 120066.76315789473,
+        "max_salary": 195240
+    },
+    {
+        "_id": "Архитектор",
+        "min_salary": 51677,
+        "avg_salary": 115144.13043478261,
+        "max_salary": 194868
+    },
+    {
+        "_id": "Врач",
+        "min_salary": 50298,
+        "avg_salary": 114631.24137931035,
+        "max_salary": 193881
+    },
+    {
+        "_id": "Инженер",
+        "min_salary": 58464,
+        "avg_salary": 131134.9705882353,
+        "max_salary": 193769
+    },
+    {
+        "_id": "Программист",
+        "min_salary": 50462,
+        "avg_salary": 121307.1875,
+        "max_salary": 191121
+    },
+    {
+        "_id": "Водитель",
+        "min_salary": 53685,
+        "avg_salary": 118306.38888888889,
+        "max_salary": 187892
+    },
+    {
+        "_id": "Менеджер",
+        "min_salary": 51042,
+        "avg_salary": 116738.27586206897,
+        "max_salary": 182502
+    }
+]

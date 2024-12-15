@@ -1,0 +1,500 @@
+{"Gender":"Female","Invoice ID":"849-09-3807","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Fashion accessories","Unit price":88.34,"Quantity":7,"Tax 5%":30.919}
+{"Gender":"Male","Invoice ID":"631-41-3108","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":46.33,"Quantity":7,"Tax 5%":162.155}
+{"Gender":"Male","Invoice ID":"123-19-1176","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Health and beauty","Unit price":58.22,"Quantity":8,"Tax 5%":23.288}
+{"Gender":"Male","Invoice ID":"373-73-7910","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Sports and travel","Unit price":86.31,"Quantity":7,"Tax 5%":302.085}
+{"Gender":"Male","Invoice ID":"699-14-3026","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Electronic accessories","Unit price":85.39,"Quantity":7,"Tax 5%":298.865}
+{"Gender":"Male","Invoice ID":"529-56-3974","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Electronic accessories","Unit price":25.51,"Quantity":4,"Tax 5%":5.102}
+{"Gender":"Male","Invoice ID":"252-56-2699","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Food and beverages","Unit price":43.19,"Quantity":10,"Tax 5%":21.595}
+{"Gender":"Male","Invoice ID":"765-26-6951","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Sports and travel","Unit price":72.61,"Quantity":6,"Tax 5%":21.783}
+{"Gender":"Male","Invoice ID":"329-62-1586","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Food and beverages","Unit price":54.67,"Quantity":3,"Tax 5%":8.2005}
+{"Gender":"Male","Invoice ID":"300-71-4605","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Electronic accessories","Unit price":86.04,"Quantity":5,"Tax 5%":21.51}
+{"Gender":"Male","Invoice ID":"371-85-5789","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Health and beauty","Unit price":87.98,"Quantity":3,"Tax 5%":13.197}
+{"Gender":"Male","Invoice ID":"273-16-6619","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":33.2,"Quantity":2,"Tax 5%":3.32}
+{"Gender":"Male","Invoice ID":"636-48-8204","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Electronic accessories","Unit price":34.56,"Quantity":5,"Tax 5%":8.64}
+{"Gender":"Male","Invoice ID":"549-59-1358","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Sports and travel","Unit price":88.63,"Quantity":3,"Tax 5%":132.945}
+{"Gender":"Male","Invoice ID":"649-29-6775","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Fashion accessories","Unit price":33.52,"Quantity":1,"Tax 5%":1.676}
+{"Gender":"Male","Invoice ID":"848-62-7243","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Health and beauty","Unit price":24.89,"Quantity":9,"Tax 5%":11.2005}
+{"Gender":"Male","Invoice ID":"871-79-8483","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Fashion accessories","Unit price":94.13,"Quantity":5,"Tax 5%":235.325}
+{"Gender":"Male","Invoice ID":"149-71-6266","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Sports and travel","Unit price":78.07,"Quantity":9,"Tax 5%":351.315}
+{"Gender":"Male","Invoice ID":"640-49-2076","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Sports and travel","Unit price":83.78,"Quantity":8,"Tax 5%":33.512}
+{"Gender":"Male","Invoice ID":"595-11-5460","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Health and beauty","Unit price":96.58,"Quantity":2,"Tax 5%":9.658}
+{"Gender":"Male","Invoice ID":"129-29-8530","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Sports and travel","Unit price":62.62,"Quantity":5,"Tax 5%":15.655}
+{"Gender":"Male","Invoice ID":"777-82-7220","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Home and lifestyle","Unit price":30.12,"Quantity":8,"Tax 5%":12.048}
+{"Gender":"Male","Invoice ID":"554-53-8700","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Home and lifestyle","Unit price":56.11,"Quantity":2,"Tax 5%":5.611}
+{"Gender":"Male","Invoice ID":"617-15-4209","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Health and beauty","Unit price":15.37,"Quantity":2,"Tax 5%":1.537}
+{"Gender":"Male","Invoice ID":"370-41-7321","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Health and beauty","Unit price":56.69,"Quantity":9,"Tax 5%":255.105}
+{"Gender":"Male","Invoice ID":"669-54-1719","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Electronic accessories","Unit price":18.93,"Quantity":6,"Tax 5%":5.679}
+{"Gender":"Male","Invoice ID":"326-78-5178","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Food and beverages","Unit price":91.4,"Quantity":7,"Tax 5%":31.99}
+{"Gender":"Male","Invoice ID":"778-71-5554","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Fashion accessories","Unit price":15.43,"Quantity":1,"Tax 5%":7.715}
+{"Gender":"Male","Invoice ID":"242-55-6721","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":16.16,"Quantity":2,"Tax 5%":1.616}
+{"Gender":"Male","Invoice ID":"106-35-6779","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Home and lifestyle","Unit price":44.34,"Quantity":2,"Tax 5%":4.434}
+{"Gender":"Male","Invoice ID":"635-40-6220","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Health and beauty","Unit price":89.6,"Quantity":8,"Tax 5%":35.84}
+{"Gender":"Male","Invoice ID":"120-06-4233","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Electronic accessories","Unit price":30.61,"Quantity":6,"Tax 5%":9.183}
+{"Gender":"Male","Invoice ID":"803-83-5989","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":55.73,"Quantity":6,"Tax 5%":16.719}
+{"Gender":"Male","Invoice ID":"199-75-8169","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Sports and travel","Unit price":15.81,"Quantity":10,"Tax 5%":7.905}
+{"Gender":"Male","Invoice ID":"853-23-2453","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Health and beauty","Unit price":75.74,"Quantity":4,"Tax 5%":15.148}
+{"Gender":"Male","Invoice ID":"877-22-3308","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Health and beauty","Unit price":15.87,"Quantity":10,"Tax 5%":7.935}
+{"Gender":"Male","Invoice ID":"232-11-3025","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Sports and travel","Unit price":78.77,"Quantity":10,"Tax 5%":39.385}
+{"Gender":"Male","Invoice ID":"393-65-2792","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Food and beverages","Unit price":89.48,"Quantity":10,"Tax 5%":44.74}
+{"Gender":"Male","Invoice ID":"796-12-2025","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Fashion accessories","Unit price":62.12,"Quantity":10,"Tax 5%":31.06}
+{"Gender":"Male","Invoice ID":"287-21-9091","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":74.67,"Quantity":9,"Tax 5%":336.015}
+{"Gender":"Male","Invoice ID":"263-10-3913","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Fashion accessories","Unit price":49.04,"Quantity":9,"Tax 5%":22.068}
+{"Gender":"Male","Invoice ID":"480-63-2856","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Food and beverages","Unit price":19.25,"Quantity":8,"Tax 5%":7.7}
+{"Gender":"Male","Invoice ID":"360-39-5055","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Sports and travel","Unit price":48.91,"Quantity":5,"Tax 5%":12.2275}
+{"Gender":"Male","Invoice ID":"362-58-8315","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Fashion accessories","Unit price":76.52,"Quantity":5,"Tax 5%":19.13}
+{"Gender":"Male","Invoice ID":"633-44-8566","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Food and beverages","Unit price":49.38,"Quantity":7,"Tax 5%":17.283}
+{"Gender":"Male","Invoice ID":"504-35-8843","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Sports and travel","Unit price":42.47,"Quantity":1,"Tax 5%":2.1235}
+{"Gender":"Male","Invoice ID":"152-08-9985","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Health and beauty","Unit price":64.36,"Quantity":9,"Tax 5%":28.962}
+{"Gender":"Male","Invoice ID":"512-91-0811","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Health and beauty","Unit price":89.75,"Quantity":1,"Tax 5%":4.4875}
+{"Gender":"Male","Invoice ID":"594-34-4444","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Electronic accessories","Unit price":97.16,"Quantity":1,"Tax 5%":4.858}
+{"Gender":"Male","Invoice ID":"766-85-7061","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Health and beauty","Unit price":87.87,"Quantity":10,"Tax 5%":43.935}
+{"Gender":"Male","Invoice ID":"865-92-6136","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Food and beverages","Unit price":52.75,"Quantity":3,"Tax 5%":7.9125}
+{"Gender":"Male","Invoice ID":"733-01-9107","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":82.7,"Quantity":6,"Tax 5%":24.81}
+{"Gender":"Male","Invoice ID":"163-56-7055","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Fashion accessories","Unit price":48.71,"Quantity":1,"Tax 5%":2.4355}
+{"Gender":"Male","Invoice ID":"189-98-2939","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Fashion accessories","Unit price":78.55,"Quantity":9,"Tax 5%":353.475}
+{"Gender":"Male","Invoice ID":"212-62-1842","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Food and beverages","Unit price":58.26,"Quantity":6,"Tax 5%":17.478}
+{"Gender":"Male","Invoice ID":"716-39-1409","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Health and beauty","Unit price":30.35,"Quantity":7,"Tax 5%":10.6225}
+{"Gender":"Male","Invoice ID":"704-48-3927","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Electronic accessories","Unit price":88.67,"Quantity":10,"Tax 5%":44.335}
+{"Gender":"Male","Invoice ID":"628-34-3388","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Fashion accessories","Unit price":27.38,"Quantity":6,"Tax 5%":8.214}
+{"Gender":"Male","Invoice ID":"630-74-5166","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Sports and travel","Unit price":62.13,"Quantity":6,"Tax 5%":18.639}
+{"Gender":"Male","Invoice ID":"861-77-0145","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Electronic accessories","Unit price":81.97,"Quantity":10,"Tax 5%":40.985}
+{"Gender":"Male","Invoice ID":"645-44-1170","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Home and lifestyle","Unit price":58.07,"Quantity":9,"Tax 5%":261.315}
+{"Gender":"Male","Invoice ID":"291-32-1427","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Fashion accessories","Unit price":21.94,"Quantity":5,"Tax 5%":5.485}
+{"Gender":"Male","Invoice ID":"659-65-8956","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Fashion accessories","Unit price":51.36,"Quantity":1,"Tax 5%":2.568}
+{"Gender":"Male","Invoice ID":"378-24-2715","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":53.44,"Quantity":2,"Tax 5%":5.344}
+{"Gender":"Male","Invoice ID":"659-36-1684","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Sports and travel","Unit price":57.12,"Quantity":7,"Tax 5%":19.992}
+{"Gender":"Male","Invoice ID":"219-22-9386","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Sports and travel","Unit price":99.96,"Quantity":9,"Tax 5%":44.982}
+{"Gender":"Male","Invoice ID":"336-78-2147","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Home and lifestyle","Unit price":63.91,"Quantity":8,"Tax 5%":25.564}
+{"Gender":"Male","Invoice ID":"590-83-4591","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Electronic accessories","Unit price":87.45,"Quantity":6,"Tax 5%":26.235}
+{"Gender":"Male","Invoice ID":"597-78-7908","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Fashion accessories","Unit price":90.22,"Quantity":3,"Tax 5%":13.533}
+{"Gender":"Male","Invoice ID":"241-72-9525","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Sports and travel","Unit price":51.91,"Quantity":10,"Tax 5%":25.955}
+{"Gender":"Male","Invoice ID":"575-30-8091","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Sports and travel","Unit price":72.5,"Quantity":8,"Tax 5%":29.0}
+{"Gender":"Male","Invoice ID":"280-17-4359","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Health and beauty","Unit price":90.5,"Quantity":10,"Tax 5%":45.25}
+{"Gender":"Male","Invoice ID":"568-90-5112","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Health and beauty","Unit price":66.14,"Quantity":4,"Tax 5%":13.228}
+{"Gender":"Male","Invoice ID":"262-47-2794","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Home and lifestyle","Unit price":71.86,"Quantity":8,"Tax 5%":28.744}
+{"Gender":"Male","Invoice ID":"238-49-0436","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Health and beauty","Unit price":32.46,"Quantity":8,"Tax 5%":12.984}
+{"Gender":"Male","Invoice ID":"584-86-7256","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Sports and travel","Unit price":34.56,"Quantity":7,"Tax 5%":12.096}
+{"Gender":"Male","Invoice ID":"746-94-0204","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Fashion accessories","Unit price":83.24,"Quantity":9,"Tax 5%":37.458}
+{"Gender":"Male","Invoice ID":"782-95-9291","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Food and beverages","Unit price":92.29,"Quantity":5,"Tax 5%":230.725}
+{"Gender":"Male","Invoice ID":"279-74-2924","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Electronic accessories","Unit price":72.17,"Quantity":1,"Tax 5%":3.6085}
+{"Gender":"Male","Invoice ID":"307-85-2293","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":50.28,"Quantity":5,"Tax 5%":12.57}
+{"Gender":"Male","Invoice ID":"743-04-1105","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Health and beauty","Unit price":97.22,"Quantity":9,"Tax 5%":43.749}
+{"Gender":"Male","Invoice ID":"423-57-2993","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Sports and travel","Unit price":93.39,"Quantity":6,"Tax 5%":28.017}
+{"Gender":"Male","Invoice ID":"275-28-0149","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Sports and travel","Unit price":63.69,"Quantity":1,"Tax 5%":3.1845}
+{"Gender":"Male","Invoice ID":"101-17-6199","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Food and beverages","Unit price":45.79,"Quantity":7,"Tax 5%":160.265}
+{"Gender":"Male","Invoice ID":"423-80-0988","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Sports and travel","Unit price":76.4,"Quantity":2,"Tax 5%":7.64}
+{"Gender":"Male","Invoice ID":"548-46-9322","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Food and beverages","Unit price":39.9,"Quantity":10,"Tax 5%":19.95}
+{"Gender":"Male","Invoice ID":"505-02-0892","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Health and beauty","Unit price":42.57,"Quantity":8,"Tax 5%":17.028}
+{"Gender":"Male","Invoice ID":"234-65-2137","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":95.58,"Quantity":10,"Tax 5%":47.79}
+{"Gender":"Male","Invoice ID":"687-47-8271","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Fashion accessories","Unit price":98.98,"Quantity":10,"Tax 5%":49.49}
+{"Gender":"Male","Invoice ID":"796-32-9050","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Food and beverages","Unit price":51.28,"Quantity":6,"Tax 5%":15.384}
+{"Gender":"Male","Invoice ID":"105-31-1824","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Sports and travel","Unit price":69.52,"Quantity":7,"Tax 5%":24.332}
+{"Gender":"Male","Invoice ID":"249-42-3782","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Health and beauty","Unit price":70.01,"Quantity":5,"Tax 5%":175.025}
+{"Gender":"Male","Invoice ID":"316-55-4634","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Food and beverages","Unit price":80.05,"Quantity":5,"Tax 5%":200.125}
+{"Gender":"Male","Invoice ID":"733-33-4967","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Electronic accessories","Unit price":20.85,"Quantity":8,"Tax 5%":8.34}
+{"Gender":"Male","Invoice ID":"608-27-6295","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Electronic accessories","Unit price":52.89,"Quantity":6,"Tax 5%":15.867}
+{"Gender":"Male","Invoice ID":"414-12-7047","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Food and beverages","Unit price":19.79,"Quantity":8,"Tax 5%":7.916}
+{"Gender":"Male","Invoice ID":"827-26-2100","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Home and lifestyle","Unit price":33.84,"Quantity":9,"Tax 5%":15.228}
+{"Gender":"Male","Invoice ID":"175-54-2529","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Food and beverages","Unit price":22.17,"Quantity":8,"Tax 5%":8.868}
+{"Gender":"Male","Invoice ID":"407-63-8975","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Food and beverages","Unit price":73.88,"Quantity":6,"Tax 5%":22.164}
+{"Gender":"Male","Invoice ID":"342-65-4817","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Health and beauty","Unit price":86.8,"Quantity":3,"Tax 5%":13.02}
+{"Gender":"Male","Invoice ID":"130-98-8941","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Fashion accessories","Unit price":64.26,"Quantity":7,"Tax 5%":22.491}
+{"Gender":"Male","Invoice ID":"434-83-9547","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Food and beverages","Unit price":38.47,"Quantity":8,"Tax 5%":15.388}
+{"Gender":"Male","Invoice ID":"851-28-6367","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Sports and travel","Unit price":15.5,"Quantity":10,"Tax 5%":7.75}
+{"Gender":"Male","Invoice ID":"824-88-3614","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Health and beauty","Unit price":34.31,"Quantity":8,"Tax 5%":13.724}
+{"Gender":"Male","Invoice ID":"895-66-0685","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Food and beverages","Unit price":18.08,"Quantity":3,"Tax 5%":2.712}
+{"Gender":"Male","Invoice ID":"732-04-5373","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Home and lifestyle","Unit price":46.47,"Quantity":4,"Tax 5%":9.294}
+{"Gender":"Male","Invoice ID":"400-60-7251","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":74.07,"Quantity":1,"Tax 5%":3.7035}
+{"Gender":"Male","Invoice ID":"641-43-2399","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":25.55,"Quantity":4,"Tax 5%":5.11}
+{"Gender":"Male","Invoice ID":"831-07-6050","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Electronic accessories","Unit price":32.71,"Quantity":5,"Tax 5%":8.1775}
+{"Gender":"Male","Invoice ID":"848-24-9445","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Health and beauty","Unit price":43.7,"Quantity":2,"Tax 5%":4.37}
+{"Gender":"Male","Invoice ID":"699-01-4164","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Health and beauty","Unit price":41.5,"Quantity":4,"Tax 5%":8.3}
+{"Gender":"Male","Invoice ID":"426-39-2418","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Electronic accessories","Unit price":61.41,"Quantity":7,"Tax 5%":214.935}
+{"Gender":"Male","Invoice ID":"875-46-5808","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Health and beauty","Unit price":25.9,"Quantity":10,"Tax 5%":12.95}
+{"Gender":"Male","Invoice ID":"394-43-4238","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Home and lifestyle","Unit price":17.77,"Quantity":5,"Tax 5%":4.4425}
+{"Gender":"Male","Invoice ID":"888-02-0338","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Electronic accessories","Unit price":26.23,"Quantity":9,"Tax 5%":11.8035}
+{"Gender":"Male","Invoice ID":"142-63-6033","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":92.36,"Quantity":5,"Tax 5%":23.09}
+{"Gender":"Male","Invoice ID":"656-16-1063","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Sports and travel","Unit price":46.42,"Quantity":3,"Tax 5%":6.963}
+{"Gender":"Male","Invoice ID":"802-43-8934","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":18.28,"Quantity":1,"Tax 5%":914.0}
+{"Gender":"Male","Invoice ID":"549-03-9315","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Fashion accessories","Unit price":94.87,"Quantity":8,"Tax 5%":37.948}
+{"Gender":"Male","Invoice ID":"239-36-3640","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Electronic accessories","Unit price":45.35,"Quantity":6,"Tax 5%":13.605}
+{"Gender":"Male","Invoice ID":"468-01-2051","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Food and beverages","Unit price":62.08,"Quantity":7,"Tax 5%":21.728}
+{"Gender":"Male","Invoice ID":"389-25-3394","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Electronic accessories","Unit price":11.81,"Quantity":5,"Tax 5%":2.9525}
+{"Gender":"Male","Invoice ID":"213-72-6612","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Food and beverages","Unit price":43.25,"Quantity":2,"Tax 5%":4.325}
+{"Gender":"Male","Invoice ID":"836-82-5858","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Health and beauty","Unit price":69.37,"Quantity":9,"Tax 5%":312.165}
+{"Gender":"Male","Invoice ID":"583-72-1480","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Electronic accessories","Unit price":37.06,"Quantity":4,"Tax 5%":7.412}
+{"Gender":"Male","Invoice ID":"269-04-5750","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Fashion accessories","Unit price":73.82,"Quantity":4,"Tax 5%":14.764}
+{"Gender":"Male","Invoice ID":"157-13-5295","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Health and beauty","Unit price":51.94,"Quantity":10,"Tax 5%":25.97}
+{"Gender":"Male","Invoice ID":"211-30-9270","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Health and beauty","Unit price":17.41,"Quantity":5,"Tax 5%":4.3525}
+{"Gender":"Male","Invoice ID":"478-06-7835","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Fashion accessories","Unit price":89.69,"Quantity":1,"Tax 5%":4.4845}
+{"Gender":"Male","Invoice ID":"540-11-4336","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Food and beverages","Unit price":24.94,"Quantity":9,"Tax 5%":11.223}
+{"Gender":"Male","Invoice ID":"448-81-5016","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Health and beauty","Unit price":59.77,"Quantity":2,"Tax 5%":5.977}
+{"Gender":"Male","Invoice ID":"142-72-4741","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Fashion accessories","Unit price":93.2,"Quantity":2,"Tax 5%":9.32}
+{"Gender":"Male","Invoice ID":"217-58-1179","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Home and lifestyle","Unit price":62.65,"Quantity":4,"Tax 5%":12.53}
+{"Gender":"Male","Invoice ID":"376-02-8238","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":93.87,"Quantity":8,"Tax 5%":37.548}
+{"Gender":"Male","Invoice ID":"530-90-9855","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Home and lifestyle","Unit price":47.59,"Quantity":8,"Tax 5%":19.036}
+{"Gender":"Male","Invoice ID":"604-70-6476","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Fashion accessories","Unit price":17.94,"Quantity":5,"Tax 5%":4.485}
+{"Gender":"Male","Invoice ID":"799-71-1548","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Electronic accessories","Unit price":77.72,"Quantity":4,"Tax 5%":15.544}
+{"Gender":"Male","Invoice ID":"785-13-7708","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Food and beverages","Unit price":73.06,"Quantity":7,"Tax 5%":25.571}
+{"Gender":"Male","Invoice ID":"845-51-0542","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Food and beverages","Unit price":46.55,"Quantity":9,"Tax 5%":209.475}
+{"Gender":"Male","Invoice ID":"662-47-5456","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Fashion accessories","Unit price":35.19,"Quantity":10,"Tax 5%":17.595}
+{"Gender":"Male","Invoice ID":"290-68-2984","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":23.75,"Quantity":4,"Tax 5%":4.75}
+{"Gender":"Male","Invoice ID":"704-11-6354","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Home and lifestyle","Unit price":58.9,"Quantity":8,"Tax 5%":23.56}
+{"Gender":"Male","Invoice ID":"110-48-7033","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Fashion accessories","Unit price":32.62,"Quantity":4,"Tax 5%":6.524}
+{"Gender":"Male","Invoice ID":"366-93-0948","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Electronic accessories","Unit price":66.35,"Quantity":1,"Tax 5%":3.3175}
+{"Gender":"Male","Invoice ID":"729-09-9681","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Home and lifestyle","Unit price":25.91,"Quantity":6,"Tax 5%":7.773}
+{"Gender":"Male","Invoice ID":"151-16-1484","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Electronic accessories","Unit price":32.25,"Quantity":4,"Tax 5%":6.45}
+{"Gender":"Male","Invoice ID":"380-94-4661","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Electronic accessories","Unit price":65.94,"Quantity":4,"Tax 5%":13.188}
+{"Gender":"Male","Invoice ID":"154-74-7179","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Sports and travel","Unit price":54.45,"Quantity":1,"Tax 5%":2.7225}
+{"Gender":"Male","Invoice ID":"808-65-0703","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":35.47,"Quantity":4,"Tax 5%":7.094}
+{"Gender":"Male","Invoice ID":"144-51-6085","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Home and lifestyle","Unit price":70.74,"Quantity":4,"Tax 5%":14.148}
+{"Gender":"Male","Invoice ID":"566-19-5475","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Fashion accessories","Unit price":47.97,"Quantity":7,"Tax 5%":167.895}
+{"Gender":"Male","Invoice ID":"537-72-0426","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Fashion accessories","Unit price":70.99,"Quantity":10,"Tax 5%":35.495}
+{"Gender":"Male","Invoice ID":"828-61-5674","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Sports and travel","Unit price":44.02,"Quantity":10,"Tax 5%":22.01}
+{"Gender":"Male","Invoice ID":"523-38-0215","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":37.0,"Quantity":1,"Tax 5%":1.85}
+{"Gender":"Male","Invoice ID":"667-92-0055","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Health and beauty","Unit price":99.83,"Quantity":6,"Tax 5%":29.949}
+{"Gender":"Male","Invoice ID":"498-41-1961","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Health and beauty","Unit price":66.68,"Quantity":5,"Tax 5%":16.67}
+{"Gender":"Male","Invoice ID":"593-95-4461","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Home and lifestyle","Unit price":74.86,"Quantity":1,"Tax 5%":3.743}
+{"Gender":"Male","Invoice ID":"139-20-0155","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Electronic accessories","Unit price":40.3,"Quantity":10,"Tax 5%":20.15}
+{"Gender":"Male","Invoice ID":"558-80-4082","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Electronic accessories","Unit price":27.85,"Quantity":7,"Tax 5%":9.7475}
+{"Gender":"Male","Invoice ID":"585-03-5943","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Health and beauty","Unit price":18.11,"Quantity":10,"Tax 5%":9.055}
+{"Gender":"Male","Invoice ID":"727-75-6477","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Electronic accessories","Unit price":28.84,"Quantity":4,"Tax 5%":5.768}
+{"Gender":"Male","Invoice ID":"744-02-5987","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Home and lifestyle","Unit price":78.38,"Quantity":6,"Tax 5%":23.514}
+{"Gender":"Male","Invoice ID":"307-83-9164","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Home and lifestyle","Unit price":60.01,"Quantity":4,"Tax 5%":12.002}
+{"Gender":"Male","Invoice ID":"446-47-6729","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Fashion accessories","Unit price":99.82,"Quantity":2,"Tax 5%":9.982}
+{"Gender":"Male","Invoice ID":"573-10-3877","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Health and beauty","Unit price":39.01,"Quantity":1,"Tax 5%":1.9505}
+{"Gender":"Male","Invoice ID":"735-06-4124","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Food and beverages","Unit price":48.61,"Quantity":1,"Tax 5%":2.4305}
+{"Gender":"Male","Invoice ID":"411-77-0180","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Electronic accessories","Unit price":72.2,"Quantity":7,"Tax 5%":25.27}
+{"Gender":"Male","Invoice ID":"532-59-7201","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Sports and travel","Unit price":79.93,"Quantity":6,"Tax 5%":23.979}
+{"Gender":"Male","Invoice ID":"181-94-6432","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Fashion accessories","Unit price":69.33,"Quantity":2,"Tax 5%":6.933}
+{"Gender":"Male","Invoice ID":"174-36-3675","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Food and beverages","Unit price":99.37,"Quantity":2,"Tax 5%":9.937}
+{"Gender":"Male","Invoice ID":"603-07-0961","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Electronic accessories","Unit price":74.79,"Quantity":5,"Tax 5%":186.975}
+{"Gender":"Male","Invoice ID":"787-15-1757","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Health and beauty","Unit price":44.07,"Quantity":4,"Tax 5%":8.814}
+{"Gender":"Male","Invoice ID":"372-94-8041","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Health and beauty","Unit price":15.26,"Quantity":6,"Tax 5%":4.578}
+{"Gender":"Male","Invoice ID":"746-54-5508","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":21.52,"Quantity":6,"Tax 5%":6.456}
+{"Gender":"Male","Invoice ID":"276-54-0879","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Sports and travel","Unit price":97.74,"Quantity":4,"Tax 5%":19.548}
+{"Gender":"Male","Invoice ID":"815-11-1168","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Food and beverages","Unit price":99.78,"Quantity":5,"Tax 5%":24.945}
+{"Gender":"Male","Invoice ID":"719-76-3868","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Food and beverages","Unit price":94.26,"Quantity":4,"Tax 5%":18.852}
+{"Gender":"Male","Invoice ID":"730-61-8757","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Health and beauty","Unit price":51.13,"Quantity":4,"Tax 5%":10.226}
+{"Gender":"Male","Invoice ID":"340-66-0321","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Electronic accessories","Unit price":36.36,"Quantity":4,"Tax 5%":7.272}
+{"Gender":"Male","Invoice ID":"868-81-1752","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":22.02,"Quantity":9,"Tax 5%":9.909}
+{"Gender":"Male","Invoice ID":"634-97-8956","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Food and beverages","Unit price":32.9,"Quantity":3,"Tax 5%":4.935}
+{"Gender":"Male","Invoice ID":"566-71-1091","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Fashion accessories","Unit price":77.02,"Quantity":5,"Tax 5%":19.255}
+{"Gender":"Male","Invoice ID":"442-48-3607","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Food and beverages","Unit price":23.48,"Quantity":2,"Tax 5%":2.348}
+{"Gender":"Male","Invoice ID":"835-16-0096","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Sports and travel","Unit price":14.7,"Quantity":5,"Tax 5%":3.675}
+{"Gender":"Male","Invoice ID":"898-04-2717","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Fashion accessories","Unit price":76.4,"Quantity":9,"Tax 5%":34.38}
+{"Gender":"Male","Invoice ID":"378-07-7001","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Electronic accessories","Unit price":48.09,"Quantity":3,"Tax 5%":7.2135}
+{"Gender":"Male","Invoice ID":"150-89-8043","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Sports and travel","Unit price":44.65,"Quantity":3,"Tax 5%":6.6975}
+{"Gender":"Male","Invoice ID":"441-94-7118","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Electronic accessories","Unit price":71.95,"Quantity":1,"Tax 5%":3.5975}
+{"Gender":"Male","Invoice ID":"531-80-1784","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Electronic accessories","Unit price":26.02,"Quantity":7,"Tax 5%":9.107}
+{"Gender":"Male","Invoice ID":"834-61-8124","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Electronic accessories","Unit price":51.69,"Quantity":7,"Tax 5%":180.915}
+{"Gender":"Male","Invoice ID":"565-67-6697","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Home and lifestyle","Unit price":27.0,"Quantity":9,"Tax 5%":12.15}
+{"Gender":"Male","Invoice ID":"453-63-6187","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Electronic accessories","Unit price":27.5,"Quantity":3,"Tax 5%":4.125}
+{"Gender":"Male","Invoice ID":"578-80-7669","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Sports and travel","Unit price":74.97,"Quantity":1,"Tax 5%":3.7485}
+{"Gender":"Male","Invoice ID":"612-36-5536","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Food and beverages","Unit price":80.96,"Quantity":8,"Tax 5%":32.384}
+{"Gender":"Male","Invoice ID":"471-41-2823","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Food and beverages","Unit price":99.79,"Quantity":2,"Tax 5%":9.979}
+{"Gender":"Male","Invoice ID":"462-67-9126","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":73.22,"Quantity":6,"Tax 5%":21.966}
+{"Gender":"Male","Invoice ID":"468-88-0009","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Home and lifestyle","Unit price":65.94,"Quantity":4,"Tax 5%":13.188}
+{"Gender":"Male","Invoice ID":"254-31-0042","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Electronic accessories","Unit price":21.5,"Quantity":9,"Tax 5%":9.675}
+{"Gender":"Male","Invoice ID":"382-25-8917","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Fashion accessories","Unit price":42.08,"Quantity":6,"Tax 5%":12.624}
+{"Gender":"Male","Invoice ID":"743-88-1662","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Sports and travel","Unit price":95.49,"Quantity":7,"Tax 5%":334.215}
+{"Gender":"Male","Invoice ID":"595-86-2894","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Fashion accessories","Unit price":96.98,"Quantity":4,"Tax 5%":19.396}
+{"Gender":"Male","Invoice ID":"289-15-7034","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Sports and travel","Unit price":82.33,"Quantity":4,"Tax 5%":16.466}
+{"Gender":"Male","Invoice ID":"525-88-7307","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Sports and travel","Unit price":75.82,"Quantity":1,"Tax 5%":3.791}
+{"Gender":"Male","Invoice ID":"689-16-9784","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Food and beverages","Unit price":46.77,"Quantity":6,"Tax 5%":14.031}
+{"Gender":"Male","Invoice ID":"596-42-3999","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Food and beverages","Unit price":18.22,"Quantity":7,"Tax 5%":6.377}
+{"Gender":"Male","Invoice ID":"563-36-9814","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Electronic accessories","Unit price":76.82,"Quantity":1,"Tax 5%":3.841}
+{"Gender":"Male","Invoice ID":"760-54-1821","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":13.59,"Quantity":9,"Tax 5%":6.1155}
+{"Gender":"Male","Invoice ID":"346-12-3257","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Electronic accessories","Unit price":19.24,"Quantity":9,"Tax 5%":8.658}
+{"Gender":"Male","Invoice ID":"651-61-0874","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":46.22,"Quantity":4,"Tax 5%":9.244}
+{"Gender":"Male","Invoice ID":"236-86-3015","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Home and lifestyle","Unit price":13.98,"Quantity":1,"Tax 5%":699.0}
+{"Gender":"Male","Invoice ID":"882-40-4577","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Sports and travel","Unit price":67.26,"Quantity":4,"Tax 5%":13.452}
+{"Gender":"Male","Invoice ID":"732-67-5346","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Food and beverages","Unit price":13.79,"Quantity":5,"Tax 5%":3.4475}
+{"Gender":"Male","Invoice ID":"569-71-4390","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Sports and travel","Unit price":21.87,"Quantity":2,"Tax 5%":2.187}
+{"Gender":"Male","Invoice ID":"132-23-6451","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Health and beauty","Unit price":20.97,"Quantity":5,"Tax 5%":5.2425}
+{"Gender":"Male","Invoice ID":"696-90-2548","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Sports and travel","Unit price":25.84,"Quantity":3,"Tax 5%":3.876}
+{"Gender":"Male","Invoice ID":"472-15-9636","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":50.93,"Quantity":8,"Tax 5%":20.372}
+{"Gender":"Male","Invoice ID":"268-03-6164","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Health and beauty","Unit price":96.11,"Quantity":1,"Tax 5%":4.8055}
+{"Gender":"Male","Invoice ID":"301-81-8610","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Fashion accessories","Unit price":25.42,"Quantity":8,"Tax 5%":10.168}
+{"Gender":"Male","Invoice ID":"489-64-4354","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Fashion accessories","Unit price":16.28,"Quantity":1,"Tax 5%":814.0}
+{"Gender":"Male","Invoice ID":"198-84-7132","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Fashion accessories","Unit price":40.61,"Quantity":9,"Tax 5%":182.745}
+{"Gender":"Male","Invoice ID":"269-10-8440","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Health and beauty","Unit price":53.17,"Quantity":7,"Tax 5%":186.095}
+{"Gender":"Male","Invoice ID":"741-73-3559","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Sports and travel","Unit price":67.27,"Quantity":5,"Tax 5%":168.175}
+{"Gender":"Male","Invoice ID":"286-75-7818","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Fashion accessories","Unit price":69.08,"Quantity":2,"Tax 5%":6.908}
+{"Gender":"Male","Invoice ID":"574-57-9721","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Food and beverages","Unit price":43.27,"Quantity":2,"Tax 5%":4.327}
+{"Gender":"Male","Invoice ID":"616-87-0016","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Fashion accessories","Unit price":95.54,"Quantity":7,"Tax 5%":33.439}
+{"Gender":"Male","Invoice ID":"751-69-0068","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Sports and travel","Unit price":99.24,"Quantity":9,"Tax 5%":44.658}
+{"Gender":"Male","Invoice ID":"257-73-1380","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Sports and travel","Unit price":82.93,"Quantity":4,"Tax 5%":16.586}
+{"Gender":"Male","Invoice ID":"345-08-4992","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":33.99,"Quantity":6,"Tax 5%":10.197}
+{"Gender":"Male","Invoice ID":"549-96-4200","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Food and beverages","Unit price":17.04,"Quantity":4,"Tax 5%":3.408}
+{"Gender":"Male","Invoice ID":"450-28-2866","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Food and beverages","Unit price":17.44,"Quantity":5,"Tax 5%":4.36}
+{"Gender":"Male","Invoice ID":"192-98-7397","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Fashion accessories","Unit price":12.78,"Quantity":1,"Tax 5%":639.0}
+{"Gender":"Male","Invoice ID":"235-46-8343","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Food and beverages","Unit price":27.66,"Quantity":10,"Tax 5%":13.83}
+{"Gender":"Male","Invoice ID":"453-12-7053","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Fashion accessories","Unit price":45.74,"Quantity":3,"Tax 5%":6.861}
+{"Gender":"Male","Invoice ID":"744-09-5786","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Electronic accessories","Unit price":22.01,"Quantity":6,"Tax 5%":6.603}
+{"Gender":"Male","Invoice ID":"568-88-3448","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Health and beauty","Unit price":25.0,"Quantity":1,"Tax 5%":1.25}
+{"Gender":"Male","Invoice ID":"187-83-5490","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Electronic accessories","Unit price":20.77,"Quantity":4,"Tax 5%":4.154}
+{"Gender":"Male","Invoice ID":"533-33-5337","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Electronic accessories","Unit price":79.39,"Quantity":10,"Tax 5%":39.695}
+{"Gender":"Male","Invoice ID":"729-46-7422","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Food and beverages","Unit price":35.89,"Quantity":1,"Tax 5%":1.7945}
+{"Gender":"Male","Invoice ID":"639-76-1242","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Food and beverages","Unit price":40.52,"Quantity":5,"Tax 5%":10.13}
+{"Gender":"Male","Invoice ID":"470-32-9057","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Food and beverages","Unit price":51.34,"Quantity":5,"Tax 5%":12.835}
+{"Gender":"Male","Invoice ID":"554-53-3790","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Sports and travel","Unit price":37.02,"Quantity":6,"Tax 5%":11.106}
+{"Gender":"Male","Invoice ID":"746-19-0921","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Food and beverages","Unit price":21.58,"Quantity":1,"Tax 5%":1.079}
+{"Gender":"Male","Invoice ID":"405-31-3305","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Fashion accessories","Unit price":43.13,"Quantity":10,"Tax 5%":21.565}
+{"Gender":"Male","Invoice ID":"731-59-7531","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Health and beauty","Unit price":72.57,"Quantity":8,"Tax 5%":29.028}
+{"Gender":"Male","Invoice ID":"502-05-1910","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Health and beauty","Unit price":65.18,"Quantity":3,"Tax 5%":9.777}
+{"Gender":"Male","Invoice ID":"598-47-9715","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Electronic accessories","Unit price":84.07,"Quantity":4,"Tax 5%":16.814}
+{"Gender":"Male","Invoice ID":"701-69-8742","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Sports and travel","Unit price":34.37,"Quantity":10,"Tax 5%":17.185}
+{"Gender":"Male","Invoice ID":"575-67-1508","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Electronic accessories","Unit price":38.6,"Quantity":1,"Tax 5%":1.93}
+{"Gender":"Male","Invoice ID":"541-08-3113","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Food and beverages","Unit price":65.97,"Quantity":8,"Tax 5%":26.388}
+{"Gender":"Male","Invoice ID":"674-15-9296","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Sports and travel","Unit price":37.14,"Quantity":5,"Tax 5%":9.285}
+{"Gender":"Male","Invoice ID":"305-18-3552","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Home and lifestyle","Unit price":60.38,"Quantity":10,"Tax 5%":30.19}
+{"Gender":"Male","Invoice ID":"795-49-7276","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Fashion accessories","Unit price":37.15,"Quantity":4,"Tax 5%":7.43}
+{"Gender":"Male","Invoice ID":"556-72-8512","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":22.96,"Quantity":1,"Tax 5%":1.148}
+{"Gender":"Male","Invoice ID":"437-53-3084","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Fashion accessories","Unit price":99.89,"Quantity":2,"Tax 5%":9.989}
+{"Gender":"Male","Invoice ID":"632-32-4574","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Sports and travel","Unit price":75.92,"Quantity":8,"Tax 5%":30.368}
+{"Gender":"Male","Invoice ID":"277-63-2961","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Sports and travel","Unit price":73.97,"Quantity":1,"Tax 5%":3.6985}
+{"Gender":"Male","Invoice ID":"620-02-2046","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":69.4,"Quantity":2,"Tax 5%":6.94}
+{"Gender":"Male","Invoice ID":"511-54-3087","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Sports and travel","Unit price":88.45,"Quantity":1,"Tax 5%":4.4225}
+{"Gender":"Male","Invoice ID":"726-29-6793","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Electronic accessories","Unit price":24.18,"Quantity":8,"Tax 5%":9.672}
+{"Gender":"Male","Invoice ID":"291-21-5991","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Health and beauty","Unit price":61.29,"Quantity":5,"Tax 5%":153.225}
+{"Gender":"Male","Invoice ID":"189-52-0236","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Electronic accessories","Unit price":99.55,"Quantity":7,"Tax 5%":348.425}
+{"Gender":"Male","Invoice ID":"503-07-0930","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Sports and travel","Unit price":58.39,"Quantity":7,"Tax 5%":204.365}
+{"Gender":"Male","Invoice ID":"425-85-2085","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Health and beauty","Unit price":54.86,"Quantity":5,"Tax 5%":13.715}
+{"Gender":"Male","Invoice ID":"521-18-7827","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Home and lifestyle","Unit price":39.39,"Quantity":5,"Tax 5%":9.8475}
+{"Gender":"Male","Invoice ID":"220-28-1851","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":34.73,"Quantity":2,"Tax 5%":3.473}
+{"Gender":"Male","Invoice ID":"600-38-9738","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Sports and travel","Unit price":71.92,"Quantity":5,"Tax 5%":17.98}
+{"Gender":"Male","Invoice ID":"133-14-7229","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Health and beauty","Unit price":62.87,"Quantity":2,"Tax 5%":6.287}
+{"Gender":"Male","Invoice ID":"534-01-4457","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Food and beverages","Unit price":81.71,"Quantity":6,"Tax 5%":24.513}
+{"Gender":"Male","Invoice ID":"286-62-6248","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Fashion accessories","Unit price":39.21,"Quantity":4,"Tax 5%":7.842}
+{"Gender":"Male","Invoice ID":"339-38-9982","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Fashion accessories","Unit price":59.86,"Quantity":2,"Tax 5%":5.986}
+{"Gender":"Male","Invoice ID":"827-77-7633","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Sports and travel","Unit price":98.09,"Quantity":9,"Tax 5%":441.405}
+{"Gender":"Male","Invoice ID":"287-83-1405","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Health and beauty","Unit price":25.43,"Quantity":6,"Tax 5%":7.629}
+{"Gender":"Male","Invoice ID":"435-13-4908","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Fashion accessories","Unit price":86.68,"Quantity":8,"Tax 5%":34.672}
+{"Gender":"Male","Invoice ID":"857-67-9057","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Electronic accessories","Unit price":22.95,"Quantity":10,"Tax 5%":11.475}
+{"Gender":"Male","Invoice ID":"583-41-4548","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":16.67,"Quantity":7,"Tax 5%":5.8345}
+{"Gender":"Male","Invoice ID":"643-38-7867","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":97.94,"Quantity":1,"Tax 5%":4.897}
+{"Gender":"Male","Invoice ID":"460-35-4390","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":30.68,"Quantity":3,"Tax 5%":4.602}
+{"Gender":"Male","Invoice ID":"343-87-0864","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Health and beauty","Unit price":75.88,"Quantity":1,"Tax 5%":3.794}
+{"Gender":"Male","Invoice ID":"243-47-2663","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Electronic accessories","Unit price":18.77,"Quantity":6,"Tax 5%":5.631}
+{"Gender":"Male","Invoice ID":"701-23-5550","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Home and lifestyle","Unit price":38.81,"Quantity":4,"Tax 5%":7.762}
+{"Gender":"Male","Invoice ID":"541-48-8554","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Sports and travel","Unit price":60.95,"Quantity":9,"Tax 5%":274.275}
+{"Gender":"Male","Invoice ID":"747-58-7183","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Fashion accessories","Unit price":57.27,"Quantity":3,"Tax 5%":8.5905}
+{"Gender":"Male","Invoice ID":"399-69-4630","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Electronic accessories","Unit price":22.21,"Quantity":6,"Tax 5%":6.663}
+{"Gender":"Male","Invoice ID":"134-75-2619","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Electronic accessories","Unit price":19.32,"Quantity":7,"Tax 5%":6.762}
+{"Gender":"Male","Invoice ID":"356-44-8813","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":37.48,"Quantity":3,"Tax 5%":5.622}
+{"Gender":"Male","Invoice ID":"712-39-0363","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Food and beverages","Unit price":41.66,"Quantity":6,"Tax 5%":12.498}
+{"Gender":"Male","Invoice ID":"174-75-0888","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Electronic accessories","Unit price":21.58,"Quantity":9,"Tax 5%":9.711}
+{"Gender":"Male","Invoice ID":"866-99-7614","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Food and beverages","Unit price":89.2,"Quantity":10,"Tax 5%":44.6}
+{"Gender":"Male","Invoice ID":"760-90-2357","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Electronic accessories","Unit price":74.51,"Quantity":6,"Tax 5%":22.353}
+{"Gender":"Male","Invoice ID":"514-37-2845","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Fashion accessories","Unit price":99.25,"Quantity":2,"Tax 5%":9.925}
+{"Gender":"Male","Invoice ID":"343-61-3544","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Sports and travel","Unit price":26.67,"Quantity":10,"Tax 5%":13.335}
+{"Gender":"Male","Invoice ID":"239-48-4278","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Food and beverages","Unit price":10.13,"Quantity":7,"Tax 5%":3.5455}
+{"Gender":"Male","Invoice ID":"355-34-6244","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Food and beverages","Unit price":72.39,"Quantity":2,"Tax 5%":7.239}
+{"Gender":"Male","Invoice ID":"550-84-8664","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Sports and travel","Unit price":85.91,"Quantity":5,"Tax 5%":214.775}
+{"Gender":"Male","Invoice ID":"339-96-8318","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Fashion accessories","Unit price":81.31,"Quantity":7,"Tax 5%":284.585}
+{"Gender":"Male","Invoice ID":"458-61-0011","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Food and beverages","Unit price":60.3,"Quantity":4,"Tax 5%":12.06}
+{"Gender":"Male","Invoice ID":"592-34-6155","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Food and beverages","Unit price":31.77,"Quantity":4,"Tax 5%":6.354}
+{"Gender":"Male","Invoice ID":"207-73-1363","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Health and beauty","Unit price":69.51,"Quantity":2,"Tax 5%":6.951}
+{"Gender":"Male","Invoice ID":"390-31-6381","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Food and beverages","Unit price":27.22,"Quantity":3,"Tax 5%":4.083}
+{"Gender":"Male","Invoice ID":"375-72-3056","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Sports and travel","Unit price":63.06,"Quantity":3,"Tax 5%":9.459}
+{"Gender":"Male","Invoice ID":"127-47-6963","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Health and beauty","Unit price":51.71,"Quantity":4,"Tax 5%":10.342}
+{"Gender":"Male","Invoice ID":"379-17-6588","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Fashion accessories","Unit price":59.61,"Quantity":10,"Tax 5%":29.805}
+{"Gender":"Male","Invoice ID":"227-50-3718","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Health and beauty","Unit price":14.62,"Quantity":5,"Tax 5%":3.655}
+{"Gender":"Male","Invoice ID":"302-15-2162","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Health and beauty","Unit price":46.53,"Quantity":6,"Tax 5%":13.959}
+{"Gender":"Male","Invoice ID":"585-11-6748","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Sports and travel","Unit price":96.8,"Quantity":3,"Tax 5%":14.52}
+{"Gender":"Male","Invoice ID":"470-31-3286","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Health and beauty","Unit price":14.82,"Quantity":3,"Tax 5%":2.223}
+{"Gender":"Male","Invoice ID":"152-68-2907","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Food and beverages","Unit price":52.2,"Quantity":3,"Tax 5%":7.83}
+{"Gender":"Male","Invoice ID":"219-61-4139","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Electronic accessories","Unit price":83.08,"Quantity":1,"Tax 5%":4.154}
+{"Gender":"Male","Invoice ID":"373-09-4567","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Food and beverages","Unit price":77.56,"Quantity":10,"Tax 5%":38.78}
+{"Gender":"Male","Invoice ID":"830-58-2383","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":31.75,"Quantity":4,"Tax 5%":6.35}
+{"Gender":"Male","Invoice ID":"318-12-0304","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Fashion accessories","Unit price":30.61,"Quantity":1,"Tax 5%":1.5305}
+{"Gender":"Male","Invoice ID":"349-97-8902","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Food and beverages","Unit price":57.89,"Quantity":2,"Tax 5%":5.789}
+{"Gender":"Male","Invoice ID":"789-23-8625","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Fashion accessories","Unit price":93.22,"Quantity":3,"Tax 5%":13.983}
+{"Gender":"Male","Invoice ID":"284-54-4231","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Sports and travel","Unit price":80.93,"Quantity":1,"Tax 5%":4.0465}
+{"Gender":"Male","Invoice ID":"443-59-0061","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Food and beverages","Unit price":67.45,"Quantity":10,"Tax 5%":33.725}
+{"Gender":"Male","Invoice ID":"327-40-9673","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Sports and travel","Unit price":72.6,"Quantity":6,"Tax 5%":21.78}
+{"Gender":"Male","Invoice ID":"840-19-2096","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Electronic accessories","Unit price":87.91,"Quantity":5,"Tax 5%":219.775}
+{"Gender":"Male","Invoice ID":"828-46-6863","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Food and beverages","Unit price":98.53,"Quantity":6,"Tax 5%":29.559}
+{"Gender":"Male","Invoice ID":"598-06-7312","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Fashion accessories","Unit price":91.35,"Quantity":1,"Tax 5%":4.5675}
+{"Gender":"Male","Invoice ID":"816-57-2053","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Sports and travel","Unit price":60.87,"Quantity":2,"Tax 5%":6.087}
+{"Gender":"Male","Invoice ID":"628-90-8624","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Health and beauty","Unit price":82.58,"Quantity":10,"Tax 5%":41.29}
+{"Gender":"Male","Invoice ID":"856-66-2701","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Home and lifestyle","Unit price":53.3,"Quantity":3,"Tax 5%":7.995}
+{"Gender":"Male","Invoice ID":"149-61-1929","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Sports and travel","Unit price":64.19,"Quantity":10,"Tax 5%":32.095}
+{"Gender":"Male","Invoice ID":"655-07-2265","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Electronic accessories","Unit price":78.31,"Quantity":3,"Tax 5%":11.7465}
+{"Gender":"Male","Invoice ID":"589-02-8023","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Food and beverages","Unit price":83.77,"Quantity":2,"Tax 5%":8.377}
+{"Gender":"Male","Invoice ID":"420-04-7590","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":99.7,"Quantity":3,"Tax 5%":14.955}
+{"Gender":"Male","Invoice ID":"182-88-2763","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Food and beverages","Unit price":79.91,"Quantity":3,"Tax 5%":11.9865}
+{"Gender":"Male","Invoice ID":"188-55-0967","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Health and beauty","Unit price":66.47,"Quantity":10,"Tax 5%":33.235}
+{"Gender":"Male","Invoice ID":"610-46-4100","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Health and beauty","Unit price":28.95,"Quantity":7,"Tax 5%":10.1325}
+{"Gender":"Male","Invoice ID":"665-63-9737","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Fashion accessories","Unit price":52.42,"Quantity":3,"Tax 5%":7.863}
+{"Gender":"Male","Invoice ID":"794-32-2436","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Electronic accessories","Unit price":55.67,"Quantity":2,"Tax 5%":5.567}
+{"Gender":"Male","Invoice ID":"273-84-2164","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Electronic accessories","Unit price":12.05,"Quantity":5,"Tax 5%":3.0125}
+{"Gender":"Male","Invoice ID":"706-36-6154","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Home and lifestyle","Unit price":19.36,"Quantity":9,"Tax 5%":8.712}
+{"Gender":"Male","Invoice ID":"778-89-7974","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Health and beauty","Unit price":70.21,"Quantity":6,"Tax 5%":21.063}
+{"Gender":"Male","Invoice ID":"574-31-8277","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Fashion accessories","Unit price":33.63,"Quantity":1,"Tax 5%":1.6815}
+{"Gender":"Male","Invoice ID":"740-11-5257","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Electronic accessories","Unit price":24.74,"Quantity":10,"Tax 5%":12.37}
+{"Gender":"Male","Invoice ID":"369-82-2676","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Electronic accessories","Unit price":75.66,"Quantity":5,"Tax 5%":18.915}
+{"Gender":"Male","Invoice ID":"742-04-5161","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Home and lifestyle","Unit price":72.78,"Quantity":10,"Tax 5%":36.39}
+{"Gender":"Male","Invoice ID":"149-15-7606","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Sports and travel","Unit price":37.32,"Quantity":9,"Tax 5%":16.794}
+{"Gender":"Male","Invoice ID":"133-77-3154","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Fashion accessories","Unit price":60.18,"Quantity":4,"Tax 5%":12.036}
+{"Gender":"Male","Invoice ID":"491-38-3499","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Fashion accessories","Unit price":55.45,"Quantity":1,"Tax 5%":2.7725}
+{"Gender":"Male","Invoice ID":"842-29-4695","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Sports and travel","Unit price":17.14,"Quantity":7,"Tax 5%":5.999}
+{"Gender":"Male","Invoice ID":"779-42-2410","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Food and beverages","Unit price":57.74,"Quantity":3,"Tax 5%":8.661}
+{"Gender":"Male","Invoice ID":"588-47-8641","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Fashion accessories","Unit price":56.04,"Quantity":10,"Tax 5%":28.02}
+{"Gender":"Male","Invoice ID":"642-61-4706","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Food and beverages","Unit price":93.4,"Quantity":2,"Tax 5%":9.34}
+{"Gender":"Male","Invoice ID":"556-41-6224","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Health and beauty","Unit price":33.64,"Quantity":8,"Tax 5%":13.456}
+{"Gender":"Male","Invoice ID":"242-11-3142","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Fashion accessories","Unit price":83.77,"Quantity":2,"Tax 5%":8.377}
+{"Gender":"Male","Invoice ID":"648-94-3045","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Health and beauty","Unit price":58.95,"Quantity":10,"Tax 5%":29.475}
+{"Gender":"Male","Invoice ID":"130-67-4723","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Food and beverages","Unit price":48.5,"Quantity":6,"Tax 5%":14.55}
+{"Gender":"Male","Invoice ID":"105-10-6182","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Fashion accessories","Unit price":21.48,"Quantity":2,"Tax 5%":2.148}
+{"Gender":"Male","Invoice ID":"648-83-1321","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Home and lifestyle","Unit price":63.56,"Quantity":10,"Tax 5%":31.78}
+{"Gender":"Male","Invoice ID":"173-57-2300","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Sports and travel","Unit price":72.88,"Quantity":2,"Tax 5%":7.288}
+{"Gender":"Male","Invoice ID":"266-20-6657","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Food and beverages","Unit price":55.04,"Quantity":7,"Tax 5%":19.264}
+{"Gender":"Male","Invoice ID":"689-05-1884","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Health and beauty","Unit price":48.63,"Quantity":10,"Tax 5%":24.315}
+{"Gender":"Male","Invoice ID":"826-58-8051","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":62.19,"Quantity":4,"Tax 5%":12.438}
+{"Gender":"Male","Invoice ID":"868-06-0466","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Electronic accessories","Unit price":69.58,"Quantity":9,"Tax 5%":31.311}
+{"Gender":"Male","Invoice ID":"751-41-9720","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":97.5,"Quantity":10,"Tax 5%":48.75}
+{"Gender":"Male","Invoice ID":"176-64-7711","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Food and beverages","Unit price":32.32,"Quantity":3,"Tax 5%":4.848}
+{"Gender":"Male","Invoice ID":"729-06-2010","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Health and beauty","Unit price":80.47,"Quantity":9,"Tax 5%":362.115}
+{"Gender":"Male","Invoice ID":"186-79-9562","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Health and beauty","Unit price":71.77,"Quantity":7,"Tax 5%":251.195}
+{"Gender":"Male","Invoice ID":"162-65-8559","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Food and beverages","Unit price":68.98,"Quantity":1,"Tax 5%":3.449}
+{"Gender":"Male","Invoice ID":"760-27-5490","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Fashion accessories","Unit price":15.62,"Quantity":8,"Tax 5%":6.248}
+{"Gender":"Male","Invoice ID":"445-30-9252","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Sports and travel","Unit price":25.7,"Quantity":3,"Tax 5%":3.855}
+{"Gender":"Male","Invoice ID":"786-94-2700","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Food and beverages","Unit price":80.62,"Quantity":6,"Tax 5%":24.186}
+{"Gender":"Male","Invoice ID":"735-32-9839","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Fashion accessories","Unit price":98.7,"Quantity":8,"Tax 5%":39.48}
+{"Gender":"Male","Invoice ID":"482-17-1179","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Electronic accessories","Unit price":11.94,"Quantity":3,"Tax 5%":1.791}
+{"Gender":"Male","Invoice ID":"788-21-5741","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Fashion accessories","Unit price":45.38,"Quantity":3,"Tax 5%":6.807}
+{"Gender":"Male","Invoice ID":"776-68-1096","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":44.12,"Quantity":3,"Tax 5%":6.618}
+{"Gender":"Male","Invoice ID":"434-35-9162","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Food and beverages","Unit price":23.34,"Quantity":4,"Tax 5%":4.668}
+{"Gender":"Male","Invoice ID":"442-44-6497","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Home and lifestyle","Unit price":55.57,"Quantity":3,"Tax 5%":8.3355}
+{"Gender":"Male","Invoice ID":"174-64-0215","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Sports and travel","Unit price":69.74,"Quantity":10,"Tax 5%":34.87}
+{"Gender":"Male","Invoice ID":"210-74-9613","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Fashion accessories","Unit price":97.26,"Quantity":4,"Tax 5%":19.452}
+{"Gender":"Male","Invoice ID":"635-28-5728","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Health and beauty","Unit price":56.0,"Quantity":3,"Tax 5%":8.4}
+{"Gender":"Male","Invoice ID":"756-49-0168","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Fashion accessories","Unit price":19.7,"Quantity":1,"Tax 5%":985.0}
+{"Gender":"Male","Invoice ID":"438-23-1242","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Electronic accessories","Unit price":75.88,"Quantity":7,"Tax 5%":26.558}
+{"Gender":"Male","Invoice ID":"238-45-6950","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Food and beverages","Unit price":53.72,"Quantity":1,"Tax 5%":2.686}
+{"Gender":"Male","Invoice ID":"607-65-2441","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Health and beauty","Unit price":81.95,"Quantity":10,"Tax 5%":40.975}
+{"Gender":"Male","Invoice ID":"137-63-5492","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Electronic accessories","Unit price":58.76,"Quantity":10,"Tax 5%":29.38}
+{"Gender":"Male","Invoice ID":"197-77-7132","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Electronic accessories","Unit price":91.56,"Quantity":8,"Tax 5%":36.624}
+{"Gender":"Male","Invoice ID":"805-86-0265","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":93.96,"Quantity":9,"Tax 5%":42.282}
+{"Gender":"Male","Invoice ID":"733-29-1227","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":55.61,"Quantity":7,"Tax 5%":194.635}
+{"Gender":"Male","Invoice ID":"451-73-2711","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Food and beverages","Unit price":84.83,"Quantity":1,"Tax 5%":4.2415}
+{"Gender":"Male","Invoice ID":"546-80-2899","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Home and lifestyle","Unit price":37.69,"Quantity":2,"Tax 5%":3.769}
+{"Gender":"Male","Invoice ID":"457-13-1708","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Fashion accessories","Unit price":65.23,"Quantity":10,"Tax 5%":32.615}
+{"Gender":"Male","Invoice ID":"314-23-4520","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Health and beauty","Unit price":81.23,"Quantity":7,"Tax 5%":284.305}
+{"Gender":"Male","Invoice ID":"775-72-1988","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":73.28,"Quantity":5,"Tax 5%":18.32}
+{"Gender":"Male","Invoice ID":"250-17-5703","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Food and beverages","Unit price":18.85,"Quantity":10,"Tax 5%":9.425}
+{"Gender":"Male","Invoice ID":"525-09-8450","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Electronic accessories","Unit price":72.13,"Quantity":10,"Tax 5%":36.065}
+{"Gender":"Male","Invoice ID":"787-87-2010","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Health and beauty","Unit price":55.5,"Quantity":4,"Tax 5%":11.1}
+{"Gender":"Male","Invoice ID":"388-76-2555","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Sports and travel","Unit price":13.69,"Quantity":6,"Tax 5%":4.107}
+{"Gender":"Male","Invoice ID":"200-16-5952","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Food and beverages","Unit price":65.65,"Quantity":2,"Tax 5%":6.565}
+{"Gender":"Male","Invoice ID":"102-77-2261","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Health and beauty","Unit price":65.31,"Quantity":7,"Tax 5%":228.585}
+{"Gender":"Male","Invoice ID":"875-31-8302","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Sports and travel","Unit price":93.38,"Quantity":1,"Tax 5%":4.669}
+{"Gender":"Male","Invoice ID":"102-06-2002","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Sports and travel","Unit price":25.25,"Quantity":5,"Tax 5%":6.3125}
+{"Gender":"Male","Invoice ID":"457-94-0464","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Electronic accessories","Unit price":87.87,"Quantity":9,"Tax 5%":395.415}
+{"Gender":"Male","Invoice ID":"629-42-4133","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Health and beauty","Unit price":21.8,"Quantity":8,"Tax 5%":8.72}
+{"Gender":"Male","Invoice ID":"404-91-5964","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Electronic accessories","Unit price":74.58,"Quantity":7,"Tax 5%":26.103}
+{"Gender":"Male","Invoice ID":"886-77-9084","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Electronic accessories","Unit price":71.89,"Quantity":8,"Tax 5%":28.756}
+{"Gender":"Male","Invoice ID":"704-10-4056","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Health and beauty","Unit price":60.47,"Quantity":3,"Tax 5%":9.0705}
+{"Gender":"Male","Invoice ID":"497-37-6538","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Sports and travel","Unit price":58.91,"Quantity":7,"Tax 5%":206.185}
+{"Gender":"Male","Invoice ID":"651-96-5970","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Fashion accessories","Unit price":46.41,"Quantity":1,"Tax 5%":2.3205}
+{"Gender":"Male","Invoice ID":"400-80-4065","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Health and beauty","Unit price":68.55,"Quantity":4,"Tax 5%":13.71}
+{"Gender":"Male","Invoice ID":"263-12-5321","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Electronic accessories","Unit price":92.6,"Quantity":7,"Tax 5%":32.41}
+{"Gender":"Male","Invoice ID":"605-83-1050","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Fashion accessories","Unit price":27.18,"Quantity":2,"Tax 5%":2.718}
+{"Gender":"Male","Invoice ID":"359-94-5395","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Health and beauty","Unit price":92.78,"Quantity":1,"Tax 5%":4.639}
+{"Gender":"Male","Invoice ID":"401-09-4232","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Home and lifestyle","Unit price":86.69,"Quantity":5,"Tax 5%":216.725}
+{"Gender":"Male","Invoice ID":"751-15-6198","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Sports and travel","Unit price":23.01,"Quantity":6,"Tax 5%":6.903}
+{"Gender":"Male","Invoice ID":"474-33-8305","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Fashion accessories","Unit price":67.39,"Quantity":7,"Tax 5%":235.865}
+{"Gender":"Male","Invoice ID":"565-91-4567","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Health and beauty","Unit price":10.75,"Quantity":8,"Tax 5%":4.3}
+{"Gender":"Male","Invoice ID":"674-56-6360","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Electronic accessories","Unit price":95.15,"Quantity":1,"Tax 5%":4.7575}
+{"Gender":"Male","Invoice ID":"832-51-6761","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Food and beverages","Unit price":33.88,"Quantity":8,"Tax 5%":13.552}
+{"Gender":"Male","Invoice ID":"869-11-3082","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Health and beauty","Unit price":96.16,"Quantity":4,"Tax 5%":19.232}
+{"Gender":"Male","Invoice ID":"190-59-3964","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Food and beverages","Unit price":47.16,"Quantity":5,"Tax 5%":11.79}
+{"Gender":"Male","Invoice ID":"366-43-6862","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Electronic accessories","Unit price":52.89,"Quantity":4,"Tax 5%":10.578}
+{"Gender":"Male","Invoice ID":"784-21-9238","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Sports and travel","Unit price":10.17,"Quantity":1,"Tax 5%":5.085}
+{"Gender":"Male","Invoice ID":"760-53-9233","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Fashion accessories","Unit price":41.28,"Quantity":3,"Tax 5%":6.192}
+{"Gender":"Male","Invoice ID":"538-22-0304","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Electronic accessories","Unit price":64.95,"Quantity":10,"Tax 5%":32.475}
+{"Gender":"Male","Invoice ID":"237-44-6163","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Electronic accessories","Unit price":10.56,"Quantity":8,"Tax 5%":4.224}
+{"Gender":"Male","Invoice ID":"636-17-0325","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Health and beauty","Unit price":62.57,"Quantity":4,"Tax 5%":12.514}
+{"Gender":"Male","Invoice ID":"528-14-9470","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Health and beauty","Unit price":91.3,"Quantity":1,"Tax 5%":4.565}
+{"Gender":"Male","Invoice ID":"807-34-3742","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Fashion accessories","Unit price":52.38,"Quantity":1,"Tax 5%":2.619}
+{"Gender":"Male","Invoice ID":"288-62-1085","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Fashion accessories","Unit price":38.54,"Quantity":5,"Tax 5%":9.635}
+{"Gender":"Male","Invoice ID":"670-71-7306","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Sports and travel","Unit price":44.63,"Quantity":6,"Tax 5%":13.389}
+{"Gender":"Male","Invoice ID":"660-29-7083","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Electronic accessories","Unit price":55.87,"Quantity":10,"Tax 5%":27.935}
+{"Gender":"Male","Invoice ID":"497-36-0989","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Fashion accessories","Unit price":51.94,"Quantity":3,"Tax 5%":7.791}
+{"Gender":"Male","Invoice ID":"291-59-1384","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Electronic accessories","Unit price":60.3,"Quantity":1,"Tax 5%":3.015}
+{"Gender":"Male","Invoice ID":"896-34-0956","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Fashion accessories","Unit price":21.32,"Quantity":1,"Tax 5%":1.066}
+{"Gender":"Male","Invoice ID":"804-38-3935","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Electronic accessories","Unit price":93.78,"Quantity":3,"Tax 5%":14.067}
+{"Gender":"Male","Invoice ID":"585-90-0249","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Electronic accessories","Unit price":73.26,"Quantity":1,"Tax 5%":3.663}
+{"Gender":"Male","Invoice ID":"843-73-4724","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Fashion accessories","Unit price":74.1,"Quantity":1,"Tax 5%":3.705}
+{"Gender":"Male","Invoice ID":"658-66-3967","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Health and beauty","Unit price":53.19,"Quantity":7,"Tax 5%":186.165}
+{"Gender":"Male","Invoice ID":"770-42-8960","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Food and beverages","Unit price":21.12,"Quantity":8,"Tax 5%":8.448}
+{"Gender":"Male","Invoice ID":"234-36-2483","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Health and beauty","Unit price":57.59,"Quantity":6,"Tax 5%":17.277}
+{"Gender":"Male","Invoice ID":"840-76-5966","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Sports and travel","Unit price":12.76,"Quantity":2,"Tax 5%":1.276}
+{"Gender":"Male","Invoice ID":"176-78-1170","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Health and beauty","Unit price":33.81,"Quantity":3,"Tax 5%":5.0715}
+{"Gender":"Male","Invoice ID":"361-59-0574","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Sports and travel","Unit price":90.53,"Quantity":8,"Tax 5%":36.212}
+{"Gender":"Male","Invoice ID":"631-34-1880","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Food and beverages","Unit price":24.31,"Quantity":3,"Tax 5%":3.6465}
+{"Gender":"Male","Invoice ID":"852-82-2749","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Sports and travel","Unit price":64.59,"Quantity":4,"Tax 5%":12.918}
+{"Gender":"Male","Invoice ID":"873-14-6353","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Food and beverages","Unit price":24.82,"Quantity":7,"Tax 5%":8.687}
+{"Gender":"Male","Invoice ID":"584-66-4073","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Fashion accessories","Unit price":56.5,"Quantity":1,"Tax 5%":2.825}
+{"Gender":"Male","Invoice ID":"166-19-2553","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Sports and travel","Unit price":89.06,"Quantity":6,"Tax 5%":26.718}
+{"Gender":"Male","Invoice ID":"737-88-5876","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Home and lifestyle","Unit price":23.29,"Quantity":4,"Tax 5%":4.658}
+{"Gender":"Male","Invoice ID":"154-87-7367","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":65.26,"Quantity":8,"Tax 5%":26.104}
+{"Gender":"Male","Invoice ID":"885-56-0389","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Fashion accessories","Unit price":52.35,"Quantity":1,"Tax 5%":2.6175}
+{"Gender":"Male","Invoice ID":"608-05-3804","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Electronic accessories","Unit price":39.75,"Quantity":1,"Tax 5%":1.9875}
+{"Gender":"Male","Invoice ID":"311-13-6971","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Sports and travel","Unit price":31.99,"Quantity":10,"Tax 5%":15.995}
+{"Gender":"Male","Invoice ID":"460-93-5834","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Sports and travel","Unit price":45.58,"Quantity":7,"Tax 5%":15.953}
+{"Gender":"Male","Invoice ID":"325-89-4209","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Food and beverages","Unit price":87.9,"Quantity":1,"Tax 5%":4.395}
+{"Gender":"Male","Invoice ID":"880-46-5796","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Sports and travel","Unit price":76.92,"Quantity":10,"Tax 5%":38.46}
+{"Gender":"Male","Invoice ID":"715-20-1673","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Electronic accessories","Unit price":28.38,"Quantity":5,"Tax 5%":7.095}
+{"Gender":"Male","Invoice ID":"811-35-1094","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Electronic accessories","Unit price":50.45,"Quantity":6,"Tax 5%":15.135}
+{"Gender":"Male","Invoice ID":"699-88-1972","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Health and beauty","Unit price":99.16,"Quantity":8,"Tax 5%":39.664}
+{"Gender":"Male","Invoice ID":"781-84-8059","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Fashion accessories","Unit price":60.74,"Quantity":7,"Tax 5%":21.259}
+{"Gender":"Male","Invoice ID":"725-54-0677","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Health and beauty","Unit price":85.6,"Quantity":7,"Tax 5%":29.96}
+{"Gender":"Male","Invoice ID":"146-09-5432","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Food and beverages","Unit price":35.04,"Quantity":9,"Tax 5%":15.768}
+{"Gender":"Male","Invoice ID":"509-10-0516","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":45.97,"Quantity":4,"Tax 5%":9.194}
+{"Gender":"Male","Invoice ID":"865-41-9075","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Food and beverages","Unit price":11.53,"Quantity":7,"Tax 5%":4.0355}
+{"Gender":"Male","Invoice ID":"450-42-3339","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Health and beauty","Unit price":84.61,"Quantity":10,"Tax 5%":42.305}
+{"Gender":"Male","Invoice ID":"522-57-8364","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Fashion accessories","Unit price":51.34,"Quantity":8,"Tax 5%":20.536}
+{"Gender":"Male","Invoice ID":"722-13-2115","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Sports and travel","Unit price":42.85,"Quantity":1,"Tax 5%":2.1425}
+{"Gender":"Male","Invoice ID":"777-67-2495","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":68.97,"Quantity":3,"Tax 5%":10.3455}
+{"Gender":"Male","Invoice ID":"321-49-7382","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Sports and travel","Unit price":88.31,"Quantity":1,"Tax 5%":4.4155}
+{"Gender":"Male","Invoice ID":"825-94-5922","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Sports and travel","Unit price":25.31,"Quantity":2,"Tax 5%":2.531}
+{"Gender":"Male","Invoice ID":"641-62-7288","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":99.92,"Quantity":6,"Tax 5%":29.976}
+{"Gender":"Male","Invoice ID":"458-10-8612","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Health and beauty","Unit price":64.08,"Quantity":7,"Tax 5%":22.428}
+{"Gender":"Male","Invoice ID":"235-06-8510","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Home and lifestyle","Unit price":85.72,"Quantity":3,"Tax 5%":12.858}
+{"Gender":"Male","Invoice ID":"720-72-2436","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Food and beverages","Unit price":66.52,"Quantity":4,"Tax 5%":13.304}
+{"Gender":"Male","Invoice ID":"702-83-5291","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Fashion accessories","Unit price":99.82,"Quantity":9,"Tax 5%":44.919}
+{"Gender":"Male","Invoice ID":"449-16-6770","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Health and beauty","Unit price":50.79,"Quantity":5,"Tax 5%":12.6975}
+{"Gender":"Male","Invoice ID":"333-23-2632","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Health and beauty","Unit price":10.08,"Quantity":7,"Tax 5%":3.528}
+{"Gender":"Male","Invoice ID":"859-97-6048","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Electronic accessories","Unit price":84.25,"Quantity":2,"Tax 5%":8.425}
+{"Gender":"Male","Invoice ID":"676-10-2200","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Fashion accessories","Unit price":53.78,"Quantity":1,"Tax 5%":2.689}
+{"Gender":"Male","Invoice ID":"373-88-1424","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Home and lifestyle","Unit price":35.81,"Quantity":5,"Tax 5%":8.9525}
+{"Gender":"Male","Invoice ID":"503-21-4385","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Health and beauty","Unit price":39.91,"Quantity":3,"Tax 5%":5.9865}
+{"Gender":"Male","Invoice ID":"200-40-6154","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Home and lifestyle","Unit price":65.91,"Quantity":6,"Tax 5%":19.773}
+{"Gender":"Male","Invoice ID":"577-34-7579","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Food and beverages","Unit price":50.49,"Quantity":9,"Tax 5%":227.205}
+{"Gender":"Male","Invoice ID":"430-02-3888","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Electronic accessories","Unit price":46.02,"Quantity":6,"Tax 5%":13.806}
+{"Gender":"Male","Invoice ID":"256-58-3609","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Fashion accessories","Unit price":91.98,"Quantity":1,"Tax 5%":4.599}
+{"Gender":"Male","Invoice ID":"324-92-3863","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Electronic accessories","Unit price":20.89,"Quantity":2,"Tax 5%":2.089}
+{"Gender":"Male","Invoice ID":"364-34-2972","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Electronic accessories","Unit price":96.82,"Quantity":3,"Tax 5%":14.523}
+{"Gender":"Male","Invoice ID":"794-42-3736","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Food and beverages","Unit price":33.33,"Quantity":2,"Tax 5%":3.333}
+{"Gender":"Male","Invoice ID":"195-06-0432","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Home and lifestyle","Unit price":81.01,"Quantity":3,"Tax 5%":12.1515}
+{"Gender":"Male","Invoice ID":"448-34-8700","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Home and lifestyle","Unit price":36.91,"Quantity":7,"Tax 5%":12.9185}
+{"Gender":"Male","Invoice ID":"452-04-8808","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Electronic accessories","Unit price":87.08,"Quantity":7,"Tax 5%":30.478}
+{"Gender":"Male","Invoice ID":"531-56-4728","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":80.08,"Quantity":3,"Tax 5%":12.012}
+{"Gender":"Male","Invoice ID":"744-82-9138","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Fashion accessories","Unit price":86.13,"Quantity":2,"Tax 5%":8.613}
+{"Gender":"Male","Invoice ID":"883-69-1285","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Fashion accessories","Unit price":49.92,"Quantity":2,"Tax 5%":4.992}
+{"Gender":"Male","Invoice ID":"518-71-6847","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Food and beverages","Unit price":26.6,"Quantity":6,"Tax 5%":7.98}
+{"Gender":"Male","Invoice ID":"728-47-9078","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Food and beverages","Unit price":59.59,"Quantity":4,"Tax 5%":11.918}
+{"Gender":"Male","Invoice ID":"809-46-1866","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Health and beauty","Unit price":58.15,"Quantity":4,"Tax 5%":11.63}
+{"Gender":"Male","Invoice ID":"148-41-7930","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Health and beauty","Unit price":99.96,"Quantity":7,"Tax 5%":34.986}
+{"Gender":"Male","Invoice ID":"189-40-5216","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Electronic accessories","Unit price":96.37,"Quantity":7,"Tax 5%":337.295}
+{"Gender":"Male","Invoice ID":"552-44-5977","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Health and beauty","Unit price":62.0,"Quantity":8,"Tax 5%":24.8}
+{"Gender":"Male","Invoice ID":"267-62-7380","Branch":"C","City":"Naypyitaw","Customer type":"Member","Product line":"Electronic accessories","Unit price":82.34,"Quantity":10,"Tax 5%":41.17}
+{"Gender":"Male","Invoice ID":"430-53-4718","Branch":"B","City":"Mandalay","Customer type":"Member","Product line":"Health and beauty","Unit price":75.37,"Quantity":8,"Tax 5%":30.148}
+{"Gender":"Male","Invoice ID":"745-74-0715","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Electronic accessories","Unit price":58.03,"Quantity":2,"Tax 5%":5.803}
+{"Gender":"Male","Invoice ID":"690-01-6631","Branch":"B","City":"Mandalay","Customer type":"Normal","Product line":"Fashion accessories","Unit price":17.49,"Quantity":10,"Tax 5%":8.745}
+{"Gender":"Male","Invoice ID":"233-67-5758","Branch":"C","City":"Naypyitaw","Customer type":"Normal","Product line":"Health and beauty","Unit price":40.35,"Quantity":1,"Tax 5%":2.0175}
+{"Gender":"Male","Invoice ID":"727-02-1313","Branch":"A","City":"Yangon","Customer type":"Member","Product line":"Food and beverages","Unit price":31.84,"Quantity":1,"Tax 5%":1.592}
+{"Gender":"Male","Invoice ID":"347-56-2442","Branch":"A","City":"Yangon","Customer type":"Normal","Product line":"Home and lifestyle","Unit price":65.82,"Quantity":1,"Tax 5%":3.291}

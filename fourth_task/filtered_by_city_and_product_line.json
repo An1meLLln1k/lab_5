@@ -1,0 +1,122 @@
+[
+    {
+        "_id": "675f0b5e20d6b588857e3763",
+        "Unit price": 28.96,
+        "Quantity": 1,
+        "Tax 5%": 1.448,
+        "Product line": "Electronic accessories",
+        "City": "Yangon",
+        "Branch": "A",
+        "Gender": "Female",
+        "Customer type": "Normal",
+        "Invoice ID": "421-95-9805"
+    },
+    {
+        "_id": "675efdae3e8c58f34cfb9fde",
+        "Unit price": 31.856000000000005,
+        "Quantity": 1,
+        "Tax 5%": 1.46248,
+        "Product line": "Electronic accessories",
+        "City": "Yangon",
+        "Branch": "A",
+        "Gender": "Female",
+        "Customer type": "Normal",
+        "Invoice ID": "421-95-9805"
+    },
+    {
+        "_id": "675efa9dfb373aff7016c1b5",
+        "Unit price": 31.856000000000005,
+        "Quantity": 1,
+        "Tax 5%": 1.46248,
+        "Product line": "Electronic accessories",
+        "City": "Yangon",
+        "Branch": "A",
+        "Gender": "Female",
+        "Customer type": "Normal",
+        "Invoice ID": "421-95-9805"
+    },
+    {
+        "_id": "675efcb91d97e18f66bf6677",
+        "Unit price": 31.856000000000005,
+        "Quantity": 1,
+        "Tax 5%": 1.46248,
+        "Product line": "Electronic accessories",
+        "City": "Yangon",
+        "Branch": "A",
+        "Gender": "Female",
+        "Customer type": "Normal",
+        "Invoice ID": "421-95-9805"
+    },
+    {
+        "_id": "675efbfad5cfde29af3b503a",
+        "Unit price": 31.856000000000005,
+        "Quantity": 1,
+        "Tax 5%": 1.46248,
+        "Product line": "Electronic accessories",
+        "City": "Yangon",
+        "Branch": "A",
+        "Gender": "Female",
+        "Customer type": "Normal",
+        "Invoice ID": "421-95-9805"
+    },
+    {
+        "_id": "675efcc5b23ab9b2f841b85c",
+        "Unit price": 31.856000000000005,
+        "Quantity": 1,
+        "Tax 5%": 1.46248,
+        "Product line": "Electronic accessories",
+        "City": "Yangon",
+        "Branch": "A",
+        "Gender": "Female",
+        "Customer type": "Normal",
+        "Invoice ID": "421-95-9805"
+    },
+    {
+        "_id": "675efc82c42fe8d51895a937",
+        "Unit price": 31.856000000000005,
+        "Quantity": 1,
+        "Tax 5%": 1.46248,
+        "Product line": "Electronic accessories",
+        "City": "Yangon",
+        "Branch": "A",
+        "Gender": "Female",
+        "Customer type": "Normal",
+        "Invoice ID": "421-95-9805"
+    },
+    {
+        "_id": "675f0199e7195d1d1ccd725c",
+        "Unit price": 31.856000000000005,
+        "Quantity": 1,
+        "Tax 5%": 1.46248,
+        "Product line": "Electronic accessories",
+        "City": "Yangon",
+        "Branch": "A",
+        "Gender": "Female",
+        "Customer type": "Normal",
+        "Invoice ID": "421-95-9805"
+    },
+    {
+        "_id": "675efdf594d1491a35ec5b55",
+        "Unit price": 31.856000000000005,
+        "Quantity": 1,
+        "Tax 5%": 1.46248,
+        "Product line": "Electronic accessories",
+        "City": "Yangon",
+        "Branch": "A",
+        "Gender": "Female",
+        "Customer type": "Normal",
+        "Invoice ID": "421-95-9805"
+    },
+    {
+        "_id": "675efc8fbfa29411fdef22a5",
+        "Unit price": 31.856000000000005,
+        "Quantity": 1,
+        "Tax 5%": 1.46248,
+        "Product line": "Electronic accessories",
+        "City": "Yangon",
+        "Branch": "A",
+        "Gender": "Female",
+        "Customer type": "Normal",
+        "Invoice ID": "421-95-9805"
+    }
+]
